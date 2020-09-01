@@ -1,9 +1,6 @@
 
 Hello World
 
-
-
-
 using System;
 
 namespace MyFirstGitHubApplication
@@ -16,3 +13,4 @@ namespace MyFirstGitHubApplication
         }
     }
 }
+
